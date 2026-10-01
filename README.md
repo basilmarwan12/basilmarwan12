@@ -178,78 +178,26 @@ My experience ranges from developing internal AI API portals and employee web ap
 - Supported application builds, automation, and project tooling
 
 ---
-
-<h2 align="center">⚙️ What I Do</h2>
+## ⚙️ What I Do
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Backend+Development;Full-Stack+Development;Microservices+Architecture;REST+API+Development;Event-Driven+Systems;Containerized+Applications"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Systems;Developing+Modern+Web+Applications;Designing+RESTful+APIs;Building+Microservices;Creating+Event-Driven+Systems" />
 </p>
 
 <div align="center">
 
-<table>
-  <thead>
-    <tr>
-      <th align="center">⚡ Technology</th>
-      <th align="center">🚀 What I Build</th>
-    </tr>
-  </thead>
-
-  <tbody>
-    <tr>
-      <td align="center"><b>FastAPI / Spring Boot</b></td>
-      <td align="center">Backend Systems</td>
-    </tr>
-
-    <tr>
-      <td align="center"><b>.NET Core / Express.js</b></td>
-      <td align="center">REST APIs</td>
-    </tr>
-
-    <tr>
-      <td align="center"><b>React</b></td>
-      <td align="center">Modern Web Applications</td>
-    </tr>
-
-    <tr>
-      <td align="center"><b>Flutter</b></td>
-      <td align="center">Mobile Applications</td>
-    </tr>
-
-    <tr>
-      <td align="center"><b>Microservices</b></td>
-      <td align="center">Scalable Architecture</td>
-    </tr>
-
-    <tr>
-      <td align="center"><b>RabbitMQ</b></td>
-      <td align="center">Event-Driven Systems</td>
-    </tr>
-
-    <tr>
-      <td align="center"><b>MongoDB / SQL</b></td>
-      <td align="center">Data Management</td>
-    </tr>
-
-    <tr>
-      <td align="center"><b>Docker</b></td>
-      <td align="center">Containerized Systems</td>
-    </tr>
-
-    <tr>
-      <td align="center"><b>Postman</b></td>
-      <td align="center">API Development & Testing</td>
-    </tr>
-
-    <tr>
-      <td align="center"><b>Git / GitHub</b></td>
-      <td align="center">Version Control & Collaboration</td>
-    </tr>
-  </tbody>
-</table>
+| 🛠️ Technology | 🚀 Specialization |
+|:---:|:---:|
+| **FastAPI / Spring Boot** | Backend Systems |
+| **.NET Core / Express.js** | REST API Development |
+| **React** | Modern Web Applications |
+| **Flutter** | Mobile Applications |
+| **Microservices** | Scalable Architecture |
+| **RabbitMQ** | Event-Driven Systems |
+| **MongoDB / PostgreSQL / MySQL** | Data Management |
+| **Docker** | Containerized Applications |
+| **Postman** | API Development & Testing |
+| **Git / GitHub** | Version Control |
 
 </div>
 ---
