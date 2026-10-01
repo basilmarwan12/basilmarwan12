@@ -104,7 +104,6 @@ My experience ranges from developing internal AI API portals and employee web ap
 <img src="https://img.shields.io/badge/Agile-38BDF8?style=for-the-badge&logo=jira&logoColor=white" />
 
 </p>
----
 
 ## 💼 Professional Experience
 
