@@ -1,8 +1,5 @@
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:87CEEB&height=220&section=header&text=Basil%20Marwan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18"
-    width="100%"
-  />
+  <img src="./assets/header.svg" width="100%" alt="Basil Marwan Header"/>
 </p>
 # 👋 Hi, I'm Basil Marwan
 
@@ -238,8 +235,5 @@ My experience ranges from developing internal AI API portals and employee web ap
 ⭐ Always interested in learning more about **Backend Development, Distributed Systems, Microservices, Cloud Technologies, and Software Architecture**.
 
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:ffffff&height=140&section=footer"
-    width="100%"
-  />
+  <img src="./assets/footer.svg" width="100%" alt="Footer Wave"/>
 </p>
