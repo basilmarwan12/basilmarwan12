@@ -202,12 +202,14 @@ My experience ranges from developing internal AI API portals and employee web ap
 
 ---
 
-## 🎓 Education
+## 🐍 GitHub Contribution Snake
 
-**Bachelor of Computer Science**  
-Ain Shams University & University of East London — Dual Degree
-
-**Specialization:** Software Engineering
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Basilmarwan12/Basilmarwan12/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 
 ---
 
