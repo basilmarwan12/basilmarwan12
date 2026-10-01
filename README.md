@@ -63,42 +63,47 @@ My experience ranges from developing internal AI API portals and employee web ap
 
 ## 💡 Core Skills
 
-- **Python**
-- **Java**
-- **C#**
-- **JavaScript**
-- **C++**
-- **Dart**
-- **FastAPI**
-- **Spring Boot**
-- **ASP.NET Core**
-- **Node.js**
-- **Express.js**
-- **React.js**
-- **Flutter**
-- **REST APIs**
-- **Swagger / OpenAPI**
-- **Microservices Architecture**
-- **Event-Driven Architecture**
-- **RabbitMQ**
-- **JWT Authentication**
-- **MongoDB**
-- **PostgreSQL**
-- **MySQL**
-- **Firebase / Firestore**
-- **Docker**
-- **Git & GitHub**
-- **Postman**
-- **API Testing**
-- **Functional Testing**
-- **Integration Testing**
-- **Regression Testing**
-- **User Acceptance Testing**
-- **Object-Oriented Programming**
-- **SOLID Principles**
-- **Data Structures & Algorithms**
-- **Agile Software Development**
+<p align="center">
 
+<img src="https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-87CEEB?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-38BDF8?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-87CEEB?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-38BDF8?style=for-the-badge&logo=cplusplus&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/FastAPI-87CEEB?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-38BDF8?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET%20Core-87CEEB?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-38BDF8?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-87CEEB?style=for-the-badge&logo=express&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/React-38BDF8?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-87CEEB?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Microservices-38BDF8?style=for-the-badge&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-87CEEB?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-38BDF8?style=for-the-badge&logo=swagger&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/MongoDB-87CEEB?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-38BDF8?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-87CEEB?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-38BDF8?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-87CEEB?style=for-the-badge&logo=postman&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Git-38BDF8?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-87CEEB?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Testing-38BDF8?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+<img src="https://img.shields.io/badge/SOLID-87CEEB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Agile-38BDF8?style=for-the-badge&logo=jira&logoColor=white" />
+
+</p>
 ---
 
 ## 💼 Professional Experience
