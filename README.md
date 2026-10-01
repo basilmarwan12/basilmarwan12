@@ -1,14 +1,221 @@
-<h1 align="center">Hi 👋, I'm Basil Marwan</h1>
-<h3 align="center">Software Engineer</h3>
+# 👋 Hi, I'm Basil Marwan
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=basilmarwan" alt="basilmarwan" /></a> </p>
+### Software Engineer | Backend & Full-Stack Developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/basilmarwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basilmarwan" height="30" width="40" /></a>
+I'm a **Software Engineer** with hands-on experience in **backend development, full-stack development, API development, system integration, and software testing**.
+
+I enjoy building scalable web applications and backend systems using technologies such as **FastAPI, Spring Boot, .NET Core, Express.js, React, MongoDB, PostgreSQL, and Docker**.
+
+My experience ranges from developing internal AI API portals and employee web applications to designing **microservices architectures, REST APIs, database-driven systems, and automated device platforms**.
+
+---
+
+## 🚀 About Me
+
+- 💻 Software Engineer with experience in **Backend & Full-Stack Development**
+- ⚙️ Building scalable applications with **FastAPI, Spring Boot, .NET Core & Express.js**
+- ⚛️ Developing modern web interfaces with **React**
+- 🔌 Experienced in designing and integrating **RESTful APIs**
+- 🧩 Experienced with **Microservices Architecture & Event-Driven Systems**
+- 🐳 Working with **Docker** and containerized applications
+- 🗄️ Comfortable working with **SQL & NoSQL databases**
+- 🧪 Practical experience in **Software Testing & API Testing**
+- 🔐 Experience implementing **JWT authentication and distributed systems**
+- 🤝 Comfortable working in **Agile development environments**
+- 🌱 Continuously learning modern software architecture and development technologies
+- 🎯 Focused on writing clean, maintainable, scalable, and production-ready code
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cs,js,cpp,dart" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Backend Development
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=basilmarwan&show_icons=true&locale=en&layout=compact" alt="basilmarwan" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,express,dotnet" />
+</p>
+
+### Front-End & Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase" />
+</p>
+
+### DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,idea" />
+</p>
+
+---
+
+## 💡 Core Skills
+
+- **Python**
+- **Java**
+- **C#**
+- **JavaScript**
+- **C++**
+- **Dart**
+- **FastAPI**
+- **Spring Boot**
+- **ASP.NET Core**
+- **Node.js**
+- **Express.js**
+- **React.js**
+- **Flutter**
+- **REST APIs**
+- **Swagger / OpenAPI**
+- **Microservices Architecture**
+- **Event-Driven Architecture**
+- **RabbitMQ**
+- **JWT Authentication**
+- **MongoDB**
+- **PostgreSQL**
+- **MySQL**
+- **Firebase / Firestore**
+- **Docker**
+- **Git & GitHub**
+- **Postman**
+- **API Testing**
+- **Functional Testing**
+- **Integration Testing**
+- **Regression Testing**
+- **User Acceptance Testing**
+- **Object-Oriented Programming**
+- **SOLID Principles**
+- **Data Structures & Algorithms**
+- **Agile Software Development**
+
+---
+
+## 💼 Professional Experience
+
+### 🧪 Software Tester — Certified IT Consultant
+
+- Designed and executed test cases based on business and functional requirements
+- Performed **functional, integration, regression, and user acceptance testing**
+- Identified, documented, and tracked software defects through resolution
+- Worked with APIs and application workflows to ensure software quality
+
+### 💻 Software Engineer — Sonic Technologies
+
+- Maintained and enhanced internal **AI API portals using FastAPI**
+- Developed an employee portal using **React and MongoDB**
+- Built reporting and pixel-screen configuration functionality
+- Developed smart-device automation simulations using **Node-RED and Docker**
+- Worked on backend integrations, application development, and system communication
+
+### 🌐 Global Operation & Delivery Intern — Orange Business
+
+- Worked with networking hardware and software tools
+- Developed troubleshooting and problem-solving skills
+- Gained experience working in technical team environments
+- Improved technical documentation and communication skills
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Ordering System — Monolith to Microservices
+
+**Spring Boot | RabbitMQ | JWT | Microservices**
+
+- Migrated a monolithic Spring Boot application into an **event-driven microservices architecture**
+- Separated authentication, product, and order services into independently deployable services
+- Implemented isolated databases for individual services
+- Designed an **asynchronous Saga Pattern using RabbitMQ**
+- Implemented distributed stock reservation and transaction consistency
+- Built stateless **JWT authentication using the Resource Server pattern**
+
+---
+
+### 🏠 Smart Device Control Platform
+
+**Express.js | MongoDB | REST APIs**
+
+- Developed and improved device-control APIs
+- Added validation for supported device commands
+- Improved API parameter handling
+- Implemented persistent device-status tracking
+- Enhanced external system communication and connectivity
+- Improved robustness of device-state management
+
+---
+
+### 🖥️ Pixel Screen Configurator
+
+**React | MongoDB**
+
+- Built interactive UI features using **React functional components and Hooks**
+- Developed reusable UI components
+- Improved code maintainability using component decomposition
+- Implemented prop-driven component architecture
+- Debugged React rendering and state-update issues
+- Reduced unnecessary component re-renders
+
+---
+
+### 📱 Employment Recommendation Application
+
+**Flutter | Dart**
+
+- Developed the application's core user interface and workflow
+- Integrated recommendation functionality
+- Worked across multiple layers of the application
+- Supported application builds, automation, and project tooling
+
+---
+
+## 📌 What I Do
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                 Software Engineering                 │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  FastAPI / Spring Boot   →  Backend Systems          │
+│  .NET Core / Express.js  →  REST APIs                │
+│  React                   →  Modern Web Applications   │
+│  Flutter                 →  Mobile Applications       │
+│  Microservices           →  Scalable Architecture    │
+│  RabbitMQ                →  Event-Driven Systems      │
+│  MongoDB / SQL           →  Data Management          │
+│  Docker                  →  Containerized Systems     │
+│  Postman                 →  API Development & Testing │
+│  Git / GitHub            →  Version Control          │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎓 Education
+
+**Bachelor of Computer Science**  
+Ain Shams University & University of East London — Dual Degree
+
+**Specialization:** Software Engineering
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: [Basil Marwan](https://www.linkedin.com/in/Basilmarwan/)
+- 📧 Email: basilmarwan33@gmail.com
+
+---
+
+⭐ Always interested in learning more about **Backend Development, Distributed Systems, Microservices, Cloud Technologies, and Software Architecture**.
