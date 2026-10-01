@@ -1,0 +1,43 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="45%" stop-color="#87CEEB"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#skyGradient)"/>
+
+  <path
+    d="M0 190
+       C200 250 400 120 600 185
+       C800 250 1000 120 1200 190
+       L1200 260
+       L0 260 Z"
+    fill="#FFFFFF"
+  />
+
+  <text
+    x="600"
+    y="90"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="48"
+    font-weight="700"
+    fill="#FFFFFF">
+    Basil Marwan
+  </text>
+
+  <text
+    x="600"
+    y="135"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="22"
+    fill="#FFFFFF">
+    Software Engineer | Backend &amp; Full-Stack Developer
+  </text>
+
+</svg>
