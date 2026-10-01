@@ -1,3 +1,9 @@
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Basil%20Marwan&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=twinkling"
+    width="100%"
+  />
+</p>
 # 👋 Hi, I'm Basil Marwan
 
 ### Software Engineer | Backend & Full-Stack Developer
@@ -221,7 +227,6 @@ My experience ranges from developing internal AI API portals and employee web ap
   </picture>
 </p>
 
----
 
 ## 📫 Connect With Me
 
@@ -231,3 +236,10 @@ My experience ranges from developing internal AI API portals and employee web ap
 ---
 
 ⭐ Always interested in learning more about **Backend Development, Distributed Systems, Microservices, Cloud Technologies, and Software Architecture**.
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling"
+    width="100%"
+  />
+</p>
