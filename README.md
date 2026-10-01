@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./assets/header.gif" width="100%" alt="Animated Header" />
+</p>
 # 👋 Hi, I'm Basil Marwan
 
 ### Software Engineer | Backend & Full-Stack Developer
