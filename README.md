@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Basil%20Marwan&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=58&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:87CEEB&height=220&section=header&text=Basil%20Marwan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18"
     width="100%"
   />
 </p>
@@ -239,7 +239,7 @@ My experience ranges from developing internal AI API portals and employee web ap
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:ffffff&height=140&section=footer"
     width="100%"
   />
 </p>
