@@ -1,4 +1,6 @@
-<img src="./assets/header.gif" width="100%" />
+<p align="center">
+  <img src="./assets/header.gif" width="100%" alt="Animated Header" />
+</p>
 # 👋 Hi, I'm Basil Marwan
 
 ### Software Engineer | Backend & Full-Stack Developer
@@ -232,4 +234,6 @@ My experience ranges from developing internal AI API portals and employee web ap
 
 ⭐ Always interested in learning more about **Backend Development, Distributed Systems, Microservices, Cloud Technologies, and Software Architecture**.
 
-<img src="./assets/footer.gif" width="100%" />
+<p align="center">
+  <img src="./assets/footer.gif" width="100%" alt="Animated Footer" />
+</p>
