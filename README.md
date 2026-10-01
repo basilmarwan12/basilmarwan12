@@ -124,7 +124,6 @@ My experience ranges from developing internal AI API portals and employee web ap
 | **Git / GitHub** | Version Control |
 
 </div>
----
 
 ## 🐍 GitHub Contribution Snake
 
