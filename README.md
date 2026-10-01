@@ -65,43 +65,40 @@ My experience ranges from developing internal AI API portals and employee web ap
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-38BDF8?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-87CEEB?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-38BDF8?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-87CEEB?style=for-the-badge&logo=javascript&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-38BDF8?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/FastAPI-87CEEB?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring%20Boot-38BDF8?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/.NET%20Core-87CEEB?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-38BDF8?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-87CEEB?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/React-38BDF8?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-87CEEB?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Microservices-38BDF8?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/RabbitMQ-87CEEB?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-38BDF8?style=for-the-badge&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/MongoDB-87CEEB?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-38BDF8?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-87CEEB?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-38BDF8?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-87CEEB?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Git-38BDF8?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-87CEEB?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Testing-38BDF8?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-<img src="https://img.shields.io/badge/SOLID-87CEEB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Agile-38BDF8?style=for-the-badge&logo=jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </p>
 
