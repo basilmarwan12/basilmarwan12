@@ -1,4 +1,9 @@
-<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+<svg
+  width="1200"
+  height="260"
+  viewBox="0 0 1200 260"
+  xmlns="http://www.w3.org/2000/svg"
+>
 
   <defs>
     <linearGradient id="skyGradient" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -8,17 +13,53 @@
     </linearGradient>
   </defs>
 
+  <!-- Background -->
   <rect width="1200" height="260" fill="url(#skyGradient)"/>
 
+  <!-- Back wave -->
   <path
-    d="M0 190
+    fill="#FFFFFF"
+    opacity="0.35"
+    d="M0 180
+       C180 230 360 140 540 180
+       C720 220 900 140 1200 185
+       L1200 260
+       L0 260 Z"
+  >
+    <animate
+      attributeName="d"
+      dur="6s"
+      repeatCount="indefinite"
+      values="
+      M0 180 C180 230 360 140 540 180 C720 220 900 140 1200 185 L1200 260 L0 260 Z;
+      M0 190 C180 145 360 225 540 175 C720 130 900 220 1200 180 L1200 260 L0 260 Z;
+      M0 180 C180 230 360 140 540 180 C720 220 900 140 1200 185 L1200 260 L0 260 Z
+      "
+    />
+  </path>
+
+  <!-- Front wave -->
+  <path
+    fill="#FFFFFF"
+    d="M0 195
        C200 250 400 120 600 185
        C800 250 1000 120 1200 190
        L1200 260
        L0 260 Z"
-    fill="#FFFFFF"
-  />
+  >
+    <animate
+      attributeName="d"
+      dur="4s"
+      repeatCount="indefinite"
+      values="
+      M0 195 C200 250 400 120 600 185 C800 250 1000 120 1200 190 L1200 260 L0 260 Z;
+      M0 185 C200 135 400 245 600 180 C800 125 1000 240 1200 180 L1200 260 L0 260 Z;
+      M0 195 C200 250 400 120 600 185 C800 250 1000 120 1200 190 L1200 260 L0 260 Z
+      "
+    />
+  </path>
 
+  <!-- Name -->
   <text
     x="600"
     y="90"
@@ -26,17 +67,20 @@
     font-family="Arial, Helvetica, sans-serif"
     font-size="48"
     font-weight="700"
-    fill="#FFFFFF">
+    fill="#FFFFFF"
+  >
     Basil Marwan
   </text>
 
+  <!-- Subtitle -->
   <text
     x="600"
     y="135"
     text-anchor="middle"
     font-family="Arial, Helvetica, sans-serif"
     font-size="22"
-    fill="#FFFFFF">
+    fill="#FFFFFF"
+  >
     Software Engineer | Backend &amp; Full-Stack Developer
   </text>
 
